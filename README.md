@@ -49,4 +49,5 @@ Welcome to my CIT Minor Portfolio. Here you will find links to all of the projec
 - This project focused on creating two shape classes that all inherit rpoperties from the base class. 
 
 ![Portfolio Cover](me.JPG)
+<img src="me.JPG" alt="Portfolio Cover" width="50">
 
