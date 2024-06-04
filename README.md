@@ -35,5 +35,5 @@ Welcome to my CIT Minor Portfolio. Here you will find links to all of the projec
 [Project 6: Classes and Methods](https://github.com/janeduncann/cit281-p6)
 - This project focused on creating two shape classes that all inherit rpoperties from the base class. 
 
-![Portfolio Cover](https://github.com/JaneDuncann/JaneDuncann.github.io/main/path/to/me.JPG)
+![Portfolio Cover](me.JPG)
 
