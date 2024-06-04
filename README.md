@@ -1,5 +1,6 @@
 # CIT 281 Portfolio
 Welcome to my CIT Minor Portfolio. Here you will find links to all of the projects and labs I have completed as well as short descriptions. 
+<img src="me.JPG" alt="Portfolio Cover" width="300">
 
 ## CIT 281 Labs
 [Lab 1: Using terminal commands](https://github.com/janeduncann/cit281-lab1)
@@ -47,6 +48,3 @@ Welcome to my CIT Minor Portfolio. Here you will find links to all of the projec
 
 [Project 6: Classes and Methods](https://github.com/janeduncann/cit281-p6)
 - This project focused on creating two shape classes that all inherit rpoperties from the base class. 
-
-<img src="me.JPG" alt="Portfolio Cover" width="300">
-
