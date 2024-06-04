@@ -3,31 +3,23 @@ Welcome to my CIT Minor Portfolio. Here you will find links to all of the projec
 
 ## CIT 281 Labs
 [Lab 1: Using terminal commands](https://github.com/janeduncann/cit281-lab1)
-- This lab used a combination of novice javascript skills and new terminal experience to practice server-side code
-<br>
+- This lab used a combination of novice javascript skills and new terminal experience to practice server-side code.  
 [Lab 2: Working with git](https://github.com/janeduncann/cit281-lab2)
-- This lab provided practice with adding a file to the repo, changing it, and committing the changes
-<br>
+- This lab provided practice with adding a file to the repo, changing it, and committing the changes.  
 [Lab 3: Arrow functions and object destructuring](https://github.com/janeduncann/cit281-lab3)
-- This lab used implicit and explicit returns and worked on destructuring objects
-<br>
+- This lab used implicit and explicit returns and worked on destructuring objects.  
 [Lab 4: Fastify](https://github.com/janeduncann/cit281-lab4)
-- This lab worked on the intersection of github and fastify to handle URLs
-<br>
+- This lab worked on the intersection of github and fastify to handle URLs.  
 [Lab 5: Using Postman to handle HTTP verbs](https://github.com/janeduncann/cit281-lab5)
-- This lab handled both GET and POST verbs and used Postman to visualize
-<br>
+- This lab handled both GET and POST verbs and used Postman to visualize.  
 [Lab 6: Working with classes](https://github.com/janeduncann/cit281-lab6)
-- This lab focused on creating classes and methods
-<br>
+- This lab focused on creating classes and methods.  
 [Lab 7: Creating Github repositories](https://github.com/janeduncann/cit281-lab7)
-- This lab focused creating a repository, error handling and cloning repositories
-<br>
+- This lab focused creating a repository, error handling and cloning repositories.  
 [Lab 8: Using the node-fetch package](https://github.com/janeduncann/cit281-lab8)
-- This lab covered node-fetch which includes using .then() and .catch() to handle the GET HTTP verb
-<br>
+- This lab covered node-fetch which includes using .then() and .catch() to handle the GET HTTP verb.  
 [Lab 9: Creating a release based workflow](https://github.com/janeduncann/cit281-lab9)
-- This lab improved skills using Github and beta release
+- This lab improved skills using Github and beta release.  
 
 ## CIT 281 Projects
 [Project 1: Using Node.js](https://github.com/janeduncann/cit281-p1)
