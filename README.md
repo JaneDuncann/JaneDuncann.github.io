@@ -31,15 +31,20 @@ Welcome to my CIT Minor Portfolio. Here you will find links to all of the projec
 
 ## CIT 281 Projects
 [Project 1: Using Node.js](https://github.com/janeduncann/cit281-p1)
-- This project focused on creating a function to return a string of a random length and used Node.js to run the program
+- This project focused on creating a function to return a string of a random length and used Node.js to run the program.
+
 [Project 2: Function Expressions](https://github.com/janeduncann/cit281-p2)
-- This project used VSCode to stage, commit, and ignore files. also wrote function to sort a string
+- This project used VSCode to stage, commit, and ignore files. also wrote function to sort a string.
+
 [Project 3: Creating a code module and updating the server using Fastify](https://github.com/janeduncann/cit281-p3)
 - This project implimented a function that is capable of calculating the total value of coin objects. Then, the server code updates to be a Node.js web server and is handled by Fastify.
+
 [Project 4: REST API](https://github.com/janeduncann/cit281-p4)
 - This project required the creation of a REST API that works with a data set of questions and answers. Additionally, it used Node,js to handle the GET verb.
+
 [Project 5: Monster Game](https://github.com/janeduncann/cit281-p5)
 - In this project, I created a Monster game using classes.
+
 [Project 6: Classes and Methods](https://github.com/janeduncann/cit281-p6)
 - This project focused on creating two shape classes that all inherit rpoperties from the base class. 
 
